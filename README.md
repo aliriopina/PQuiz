@@ -7,9 +7,9 @@
  
  Tomando en cuenta esto al momento de finalizar el programa (Siempre y cuando se participe) se creara el excel con los puntos y el nombre digitado, por defecto la ruta de creación del archivo será el Directorio del usuario (user.home), es posible visualizar esto en las lineas 71, 125 y 176 de la clase "Puntaje" de esta manera se expresan los diferentes finales del programa.
 
- - Ejecución del Quiz:
-
- La clase main es PQuiz.
+ - Ejecución del Quiz
+ 
+ La clase main es src/PQuiz.
 
  En la primera pantalla se encuentra la bienvenida e instrucciones para participar en el programa o bien si desea salir del mismo. Se debe tener presente que cualquier otra acción que no se encuentre en las opciones mostradas no permitira continuar o finalizar el programa (Esto para toda la ejecución del programa).
 
